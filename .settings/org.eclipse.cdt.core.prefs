@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/value=${BOOST_DIR}
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/BOOST_DIR/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/BOOST_DIR/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/BOOST_DIR/value=${BOOST_DIR}
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/appendContributed=true
