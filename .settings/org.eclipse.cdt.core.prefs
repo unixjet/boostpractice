@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+<<<<<<< 8cbf4952e7bf487839b3a324c5b6cbeddcb02aa3
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/delimiter=;
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/operation=append
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/BOOST_DIR/value=${BOOST_DIR}
@@ -9,3 +10,21 @@ environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/BOOS
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/BOOST_DIR/value=${BOOST_DIR}
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/append=true
 environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.149370053/appendContributed=true
+=======
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/BOOST/delimiter=;
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/BOOST/operation=append
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/BOOST/value=${BOOST_DIR}
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/INCLUDE/delimiter=;
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/INCLUDE/operation=replace
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/INCLUDE/value=C\:\\Program Files (x86)\\Intel\\Trace Analyzer and Collector\\9.0.3.049\\include;C\:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\um;C\:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt;C\:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\include
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/LIB/delimiter=;
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/LIB/operation=append
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/LIB/value=C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10240.0\\um\\x86;C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10240.0\\ucrt\\x86;C\:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\lib
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/append=true
+environment/project/org.eclipse.cdt.msvc.exe.debug.1176995166/appendContributed=true
+environment/project/org.eclipse.cdt.msvc.exe.release.1819403814/LIB/delimiter=;
+environment/project/org.eclipse.cdt.msvc.exe.release.1819403814/LIB/operation=append
+environment/project/org.eclipse.cdt.msvc.exe.release.1819403814/LIB/value=C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10240.0\\um\\x86;C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10240.0\\ucrt\\x86;C\:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\lib
+environment/project/org.eclipse.cdt.msvc.exe.release.1819403814/append=true
+environment/project/org.eclipse.cdt.msvc.exe.release.1819403814/appendContributed=true
+>>>>>>> variant
