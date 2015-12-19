@@ -1,5 +1,15 @@
+=\=\=\=\=\=\=
+<<<<<<<=8cbf4952e7bf487839b3a324c5b6cbeddcb02aa3
+>>>>>>>=variant
 eclipse.preferences.version=1
-<<<<<<< 8cbf4952e7bf487839b3a324c5b6cbeddcb02aa3
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/CPATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/CPATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/appendContributed=true
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/CPATH/delimiter=;
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/CPATH/operation=remove
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/CPLUS_INCLUDE_PATH/delimiter=;
@@ -8,11 +18,6 @@ environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/C_INCLUDE_PATH/operation=remove
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/append=true
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/appendContributed=true
-environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/LIBRARY_PATH/delimiter=;
-environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/LIBRARY_PATH/operation=remove
-environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/append=true
-environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/appendContributed=true
-=======
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/CPATH/delimiter=;
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/CPATH/operation=remove
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/CPLUS_INCLUDE_PATH/delimiter=;
@@ -21,8 +26,15 @@ environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/C_
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/C_INCLUDE_PATH/operation=remove
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/append=true
 environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.1176995166/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.1708775088/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.225733949/appendContributed=true
 environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.1176995166/LIBRARY_PATH/delimiter=;
 environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.1176995166/LIBRARY_PATH/operation=remove
 environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.1176995166/append=true
 environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.1176995166/appendContributed=true
->>>>>>> variant
